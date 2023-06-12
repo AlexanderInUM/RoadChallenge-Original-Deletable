@@ -17,11 +17,11 @@ RoadDataset/road/videos/2015-02-13-09-16-26_stereo_centre_02.mp4
 RoadDataset/road/videos/2015-02-13-09-16-26_stereo_centre_05.mp4
 RoadDataset/road/videos/2015-02-24-12-32-19_stereo_centre_04.mp4
 RoadDataset/road/videos/2015-03-03-11-31-36_stereo_centre_01.mp4
-RoadWaymoBaseline/kinetics-pt/SLOWFAST_R101_K700.pth.tar
-RoadWaymoBaseline/kinetics-pt/SLOWFAST_R50_K400.pth.tar
 RoadWaymoBaseline/kinetics-pt/resnet50C2D.pth
-RoadWaymoBaseline/kinetics-pt/resnet50I3D-NL.pth
 RoadWaymoBaseline/kinetics-pt/resnet50I3D.pth
+RoadWaymoBaseline/kinetics-pt/resnet50I3D-NL.pth
 RoadWaymoBaseline/kinetics-pt/resnet50RCGRU.pth
 RoadWaymoBaseline/kinetics-pt/resnet50RCLSTM.pth
 RoadWaymoBaseline/kinetics-pt/resnet50RCN.pth
+RoadWaymoBaseline/kinetics-pt/SLOWFAST_R101_K700.pth.tar
+RoadWaymoBaseline/kinetics-pt/SLOWFAST_R50_K400.pth.tar
